@@ -1,0 +1,98 @@
+{
+  "configVersion": 1,
+  "timestamp": 1591273247478,
+  "index": "/scully-static-test/index.html",
+  "assetGroups": [
+    {
+      "name": "app",
+      "installMode": "prefetch",
+      "updateMode": "prefetch",
+      "urls": [
+        "/scully-static-test/1-es2015.0a6d1173be7359257f74.js",
+        "/scully-static-test/1-es5.0a6d1173be7359257f74.js",
+        "/scully-static-test/2-es2015.87ff0b45bb8fafcd454d.js",
+        "/scully-static-test/2-es5.87ff0b45bb8fafcd454d.js",
+        "/scully-static-test/7-es2015.48df21a5dd30accfda9a.js",
+        "/scully-static-test/7-es5.48df21a5dd30accfda9a.js",
+        "/scully-static-test/8-es2015.4c6d6fb4905b288dcea6.js",
+        "/scully-static-test/8-es5.4c6d6fb4905b288dcea6.js",
+        "/scully-static-test/favicon.ico",
+        "/scully-static-test/index.html",
+        "/scully-static-test/main-es2015.d9f64f6e19062665c577.js",
+        "/scully-static-test/main-es5.d9f64f6e19062665c577.js",
+        "/scully-static-test/manifest.webmanifest",
+        "/scully-static-test/polyfills-es2015.a3c0900ab9f89df50412.js",
+        "/scully-static-test/polyfills-es5.866944447ad5db16cce1.js",
+        "/scully-static-test/runtime-es2015.fb9487e0a395d5a0d06d.js",
+        "/scully-static-test/runtime-es5.fb9487e0a395d5a0d06d.js",
+        "/scully-static-test/styles.9874627b5fad3ea7a758.css"
+      ],
+      "patterns": []
+    },
+    {
+      "name": "assets",
+      "installMode": "lazy",
+      "updateMode": "prefetch",
+      "urls": [
+        "/scully-static-test/assets/icons/icon-128x128.png",
+        "/scully-static-test/assets/icons/icon-144x144.png",
+        "/scully-static-test/assets/icons/icon-152x152.png",
+        "/scully-static-test/assets/icons/icon-192x192.png",
+        "/scully-static-test/assets/icons/icon-384x384.png",
+        "/scully-static-test/assets/icons/icon-512x512.png",
+        "/scully-static-test/assets/icons/icon-72x72.png",
+        "/scully-static-test/assets/icons/icon-96x96.png",
+        "/scully-static-test/assets/scully-routes.json"
+      ],
+      "patterns": []
+    }
+  ],
+  "dataGroups": [],
+  "hashTable": {
+    "/scully-static-test/1-es2015.0a6d1173be7359257f74.js": "382e922fbb5ac09a67a1025191f23c6a8262e540",
+    "/scully-static-test/1-es5.0a6d1173be7359257f74.js": "593fc87fa31a9a9073691ede557d60fe7bee5300",
+    "/scully-static-test/2-es2015.87ff0b45bb8fafcd454d.js": "3a96ef26521c7d5b118b6e1d8bc3149caf924e70",
+    "/scully-static-test/2-es5.87ff0b45bb8fafcd454d.js": "7c7d9860e1b7c4ba68b9f634c9e3d505bf1441db",
+    "/scully-static-test/7-es2015.48df21a5dd30accfda9a.js": "6240fcf48101189bba6e6ea6dae2d5a9e157a988",
+    "/scully-static-test/7-es5.48df21a5dd30accfda9a.js": "300ab7d9d6830d2cb2dbb18e1a4baa762c2369e2",
+    "/scully-static-test/8-es2015.4c6d6fb4905b288dcea6.js": "5659c60aff1f87218544cb1c5aa4f8c1de0645c2",
+    "/scully-static-test/8-es5.4c6d6fb4905b288dcea6.js": "76e86b3ca3db0f7ffa1ec52fcf64a8aef1690348",
+    "/scully-static-test/assets/icons/icon-128x128.png": "dae3b6ed49bdaf4327b92531d4b5b4a5d30c7532",
+    "/scully-static-test/assets/icons/icon-144x144.png": "b0bd89982e08f9bd2b642928f5391915b74799a7",
+    "/scully-static-test/assets/icons/icon-152x152.png": "7479a9477815dfd9668d60f8b3b2fba709b91310",
+    "/scully-static-test/assets/icons/icon-192x192.png": "1abd80d431a237a853ce38147d8c63752f10933b",
+    "/scully-static-test/assets/icons/icon-384x384.png": "329749cd6393768d3131ed6304c136b1ca05f2fd",
+    "/scully-static-test/assets/icons/icon-512x512.png": "559d9c4318b45a1f2b10596bbb4c960fe521dbcc",
+    "/scully-static-test/assets/icons/icon-72x72.png": "c457e56089a36952cd67156f9996bc4ce54a5ed9",
+    "/scully-static-test/assets/icons/icon-96x96.png": "3914125a4b445bf111c5627875fc190f560daa41",
+    "/scully-static-test/assets/scully-routes.json": "bcf2f7133606b7a98324b2c3ea47e8003f9c4bd4",
+    "/scully-static-test/favicon.ico": "22f6a4a3bcaafafb0254e0f2fa4ceb89e505e8b2",
+    "/scully-static-test/index.html": "bb03cf60be8140dd74240af0638e487a524da666",
+    "/scully-static-test/main-es2015.d9f64f6e19062665c577.js": "7f7d395a4f27ea35598689653daab49c558752af",
+    "/scully-static-test/main-es5.d9f64f6e19062665c577.js": "5a2c0001f41123c1ec21c29ef7786f7f14fe6922",
+    "/scully-static-test/manifest.webmanifest": "97b7dfb11a9fd9b0f9ee0509033198b7b1e3dad0",
+    "/scully-static-test/polyfills-es2015.a3c0900ab9f89df50412.js": "d7b9f5016c590a4c97a09d380e5b5aad3809069f",
+    "/scully-static-test/polyfills-es5.866944447ad5db16cce1.js": "e55cd13ad494fb4f1ac8b95ad366ac8481f15479",
+    "/scully-static-test/runtime-es2015.fb9487e0a395d5a0d06d.js": "a22f91b6340cb15f44097d788fc3434101e00c78",
+    "/scully-static-test/runtime-es5.fb9487e0a395d5a0d06d.js": "f17ca002e55f325225b091735fefeaf758b1f69d",
+    "/scully-static-test/styles.9874627b5fad3ea7a758.css": "26875b01d61ca902dfdb9d8dcc0feaf674f0e685"
+  },
+  "navigationUrls": [
+    {
+      "positive": true,
+      "regex": "^\\/.*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*\\.[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*$"
+    },
+    {
+      "positive": false,
+      "regex": "^\\/(?:.+\\/)?[^/]*__[^/]*\\/.*$"
+    }
+  ]
+}
